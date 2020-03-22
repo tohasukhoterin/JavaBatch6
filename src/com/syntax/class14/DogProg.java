@@ -1,7 +1,7 @@
 package com.syntax.class14;
 
 public class DogProg {
-	public static void maint(String[] args) {
+	public static void main(String[] args) {
 		Dog dog1 = new Dog();
 		dog1.breed = "Golden retriver";
 		dog1.color = "Yellow";
